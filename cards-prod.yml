@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related PRODUCTION APIs "
+  message: "Welcome to Havesweets cards related PRODUCTION APIs "
   contactDetails:
-    name: "Sandra Harald - Product Owner"
-    email: "sandra@eazybank.com"
+    name: "Virija Duddukuri - Product Owner"
+    email: "virija@havesweets.com"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
